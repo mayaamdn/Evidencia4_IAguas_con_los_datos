@@ -2,4 +2,7 @@ Librerías Usadas
 Pandas
 Seaborn
 Plotly
-
+Streamlit
+Numpy
+Pathlib
+Base64
