@@ -1,8 +1,28 @@
 Librerías Usadas
-Pandas
-Seaborn
-Plotly
-Streamlit
-Numpy
-Pathlib
-Base64
+1. Pandas
+
+Esta librería fue usada por su capacidad para manipular, transformar y analizar datos de manera eficiente y porque permite cargar, limpiar, unir y agrupar grandes volúmenes de información, fue esencial para preparar los datos antes de cualquier análisis estadístico o visualización.
+
+2. NumPy
+
+Fue utilizada debido a que hace posible operaciones numéricas altamente optimizadas, el manejo eficiente de arreglos multidimensionales y funciones matemáticas avanzadas. Pandas, Seaborn, y muchas otras librerías dependen de NumPy internamente.
+
+3. Seaborn
+
+Elegida por su capacidad para generar gráficos estadísticos claros, estéticos y con pocos comandos. Seaborn facilita identificar patrones, tendencias y relaciones entre variables gracias a sus visualizaciones por defecto más informativas que las de Matplotlib (fue usada mas en el EDA).
+
+4. Plotly
+
+Fue usada en el tablero ya que sus visualizaciones interactivas permiten explorar la data dinámicamente (zoom, hover, filtrado). Es ideal para aportar una interacción del usuario aporta valor adicional.
+
+5. Streamlit
+
+Seleccionado como framework para crear aplicaciones web de análisis de datos de forma rápida y con poco código. Nos permitió transformar scripts de Python en interfaces accesibles, intuitivas y visualmente limpias.
+
+6. Pathlib
+
+Incluido para gestionar rutas y archivos de manera segura.
+
+7. Base64
+
+Codificar y transferir archivos (imágenes, documentos, gráficos) en formato texto, lo cual es útil al integrarlos dentro de aplicaciones web.
