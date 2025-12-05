@@ -1,1 +1,5 @@
 # Librerías Usadas
+* Pandas
+* Seaborn
+* Plotly
+
