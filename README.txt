@@ -16,3 +16,6 @@ La combinación de Streamlit, XGBoost, Pandas, Plotly proporciona un pipeline co
 
 # Instrucciones
 .....
+
+
+pip install -r requirements.txt, python app.py
